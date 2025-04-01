@@ -6,8 +6,8 @@
   "scripts": {
     "test": "node popkid.js",
     "s": "node index.js",
-    "toshtech": "pm2 start popkid.js --attach",
-    "toshtech": "pm2 start popkid.js --attach",
+    "popkidtech": "pm2 start popkid.js --attach",
+    "popkidtech": "pm2 start popkid.js --attach",
     "c": "tsc"
   },
   "keywords": [

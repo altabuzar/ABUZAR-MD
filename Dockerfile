@@ -10,7 +10,7 @@ RUN apt-get update && \
   rm -rf /var/lib/apt/lists/*
   
 RUN git clone https://github.com/SIMON32883/MR-ANYWAY-MD  /root/ToshTech
-WORKDIR /root/popkidtech/
+WORKDIR /root/toshtech/
 
 
 COPY package.json .

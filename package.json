@@ -4,8 +4,8 @@
   "description": "",
   "main": "popkid.js",
   "scripts": {
-    "test": "node popkid.js",
-    "s": "node popkid.js",
+    "test": "node casey.js",
+    "s": "node casey.js",
     "toshtech": "pm2 start popkid.js --attach",
     "toshtech": "pm2 start popkid.js --attach",
     "c": "tsc"
